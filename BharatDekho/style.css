@@ -1,0 +1,28 @@
+body{
+	background:url(img/ni.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+
+	background-position: center;
+	background-position: no-repeat;  
+}
+.login-box{
+	max-width: 800px;
+    float: none;
+    margin: auto;
+    position: center;
+    left: auto;
+    top: auto;
+    margin-top: 50px;
+    margin-left:20px;
+}
+.login-left{
+	background-color:#00899;
+	width: 440px;
+	padding: 20px;
+}
+.login-right{
+	background: #00899;
+	width: 440px;
+	padding: 20px;
+}
